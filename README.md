@@ -1,2 +1,2 @@
-# OOP-1-TASK
+# OOP_TASK
 For Borisov
